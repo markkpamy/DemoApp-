@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mark.kpamy\\Documents\\GitRepos\\DemoApp-DotNet\\BlazorApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mark.kpamy\\Documents\\GitRepos\\DemoApp-DotNet\\BlazorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mark.kpamy\\Documents\\GitRepos\\DemoApp-DotNet\\BlazorApp.csproj",
+        "projectName": "BlazorApp",
+        "projectPath": "C:\\Users\\mark.kpamy\\Documents\\GitRepos\\DemoApp-DotNet\\BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\mark.kpamy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mark.kpamy\\Documents\\GitRepos\\DemoApp-DotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mark.kpamy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
